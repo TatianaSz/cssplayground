@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+i{
+    color:#05396b;
+    padding-right:15px;
+}
+.hoveredButton{
+    position:relative;
+    padding:9px;
+    font-size:2rem;
+    color:#05396b;
+    background-color:#edf5e0;
+    border:none;
+    transition:1s;
+    z-index:1;
+    overflow:hidden;
+    cursor:pointer;
+}
+.hoveredButton:hover{
+color:#edf5e0;
+}
+.hoveredButton::after{
+    content:"";
+    position:absolute;
+    width: 0;
+    height: 0;
+    border-top: 140px solid #5cdb94;
+    border-left: 110px solid transparent;
+    top:0;
+    left:100%;
+    transition:1s;
+    z-index:-1;
+    
+}
+.hoveredButton:hover::after{
+    left:25%;
+}
+.hoveredButton:focus{
+    border:none;
+    outline:none;
+}
