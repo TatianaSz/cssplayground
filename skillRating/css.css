@@ -35,8 +35,13 @@ p{
     text-align:right;
     min-width:50%;
     line-height:2rem;
+    letter-spacing:2px;
+    font-weight:500;
 }
 h3{
     color:#947EB0;
     font-size:2rem;
+}
+input{
+    cursor:pointer;
 }
