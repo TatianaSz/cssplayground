@@ -132,3 +132,51 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
     clip-path: polygon(31% 53.6%, 36% 51.8%, 41% 61%, 34% 64%);
     background:#904127;
 }
+.p28{
+    clip-path: polygon(35.7% 51.5%, 40.9% 61%, 50% 54%);
+    background:#6d301f;
+}
+.p29{
+    clip-path: polygon(35.7% 51.6%, 47% 40%,  50% 54.1%);
+    background:#793622;
+}
+.p30{
+    clip-path: polygon(38% 45%, 47% 39%, 49% 38.5%, 35.5% 52%);
+    background:#6f3120;
+}
+.p31{
+    clip-path: polygon(41% 38%, 37.9% 45.4%, 47% 39%);
+    background:#8e4731;
+}
+.p32{
+    clip-path: polygon(48.9% 38.5%, 53% 37.6%, 54% 45%, 47% 40.3%);
+    background:#6f3925;
+}
+.p33{
+    clip-path: polygon(47% 40.2%, 49.9% 54%, 54% 44.9%);
+    background:#402011;
+}
+.p34{
+    clip-path: polygon(52.9% 37.6%, 53.9% 45%, 61% 36%);
+    background:#913f26;
+}
+.p35{
+    clip-path: polygon(50% 54%, 37% 62.5%, 50% 62%);
+    background:#8f4e3a;
+}
+.p36{
+    clip-path: polygon(50% 61.9%, 37% 62.5%, 47% 67%);
+    background:#723321;
+}
+.p37{
+    clip-path: polygon(50% 61.8%, 54% 72.5%, 47% 66.9%);
+    background:#5e291a;
+}
+.p38{
+    clip-path: polygon(50% 62%, 54% 72.7%, 57% 50.9%);
+    background:#512415;
+}
+.p39{
+    clip-path: polygon(65% 67%, 54% 72.7%, 57% 50.9%);
+    background:#402011
+}
