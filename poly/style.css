@@ -1,0 +1,104 @@
+
+.grass{
+    position:relative;
+    left:50%;
+    top:100px;
+    transform:translateX(-50%);
+    width:500px;
+    height:500px;
+    background-color:green;
+
+}
+.el{
+    width:500px;
+    height:500px;
+    position:absolute;
+}
+.p1{
+    background-color:#5c8f29;
+    clip-path: polygon(23% 65%, 21% 73%, 29% 66%);
+}
+.p2{
+    background-color:#7cb327;
+    clip-path: polygon(23% 65%, 28% 58%, 29% 66%);
+}
+.p3{
+    background:#6d9e2e;
+    clip-path: polygon(37% 56%, 28% 58%, 29% 66%);
+}
+.p4{
+    background:#a9ce62;
+    clip-path: polygon(39% 53%, 41% 64%, 29% 66%);
+}
+.p5{
+background:#91c046;
+clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
+}
+.p6{
+    background:#477d29;
+    clip-path: polygon(39% 53%, 53% 55%, 51% 66%);
+}
+.p7{
+    background:#4c8129;
+    clip-path: polygon(61% 60%, 53% 55%, 51% 66%);
+}
+.p8{
+    background:#5c8f2a;
+    clip-path: polygon(61% 60%, 63% 68%, 51% 66%);
+}
+.p9{
+    background:#6ea429;
+    clip-path: polygon(61% 60%, 53% 55%, 66% 53%);
+}
+.p10{
+    background:#6ea429;
+    clip-path: polygon(61% 60%, 63% 68%, 66% 53%);
+}
+.p11{
+    background:#6ea429;
+    clip-path: polygon(65% 57%, 72% 65%, 66% 53%);
+}
+.p12{
+    clip-path: polygon(73% 55%, 72% 65%, 66% 53%);
+    background:#7cb327;
+}
+.p13{
+    clip-path: polygon(73% 55%, 72% 65%, 76% 61%);
+    background:#7cb327;
+}
+.p14{
+    clip-path: polygon(80% 66%, 72% 65%, 76% 61%);
+    background:#6ea429;
+}
+.p15{
+    clip-path: polygon(80% 66%, 72% 65%, 75% 70%);
+    background:#5c8f2a;
+}
+.p16{
+    clip-path: polygon(63% 68%, 72% 65%, 75% 70%);
+    background:#a9ce62;
+}
+.p17{
+    background:#90bf44;
+    clip-path: polygon(63% 68%, 72% 65%, 65% 56%);
+}
+.p18{
+    clip-path: polygon(63% 68%, 75% 70%, 64% 75%);
+    background:#a9ce62;
+}
+.p19{
+    clip-path: polygon(64% 75%, 63% 68%, 49% 70%, 47% 79%, 61% 76%);
+    background:#91c046;
+}
+.p20{
+    clip-path: polygon(51% 66%, 49% 70%, 63% 68%);
+    background:#84ac3a;
+}
+.p21{
+    clip-path: polygon(41% 64%, 51% 66%, 49% 70%, 47% 79%, 34% 77%);
+    background:#7cb327;
+}
+.p22{
+    clip-path: polygon(41% 64%, 30% 65%, 21% 73%, 34% 77%);
+    background:#91c046;
+}
