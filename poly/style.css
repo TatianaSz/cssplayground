@@ -9,6 +9,16 @@
     background-color:green;
 
 }
+.earth{
+    position:absolute;
+    left:50%;
+    top:308px;
+    transform:translateX(-50%);
+    width:500px;
+    height:500px;
+    
+
+}
 .el{
     width:500px;
     height:500px;
@@ -101,4 +111,23 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
 .p22{
     clip-path: polygon(41% 64%, 30% 65%, 21% 73%, 34% 77%);
     background:#91c046;
+}
+.p23{
+    clip-path: polygon(21% 33%, 34% 37%, 27% 38%, 24% 42%);
+    background:#a75740;
+}
+.p24{
+    clip-path: polygon(27% 38%, 23% 43%, 30% 54%);
+    background:#904228;
+}
+.p25{
+    clip-path: polygon(27% 38%, 36% 52%, 30% 54%);
+    background:#6e301f}
+.p26{
+    clip-path: polygon(27% 38%, 34% 37%, 41% 38%, 36% 52%);
+    background:#693a28;
+}
+.p27{
+    clip-path: polygon(31% 53.69%, 36% 52%, 41% 61%, 34% 64%);
+    background:#904127;
 }
