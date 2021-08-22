@@ -1,18 +1,19 @@
 
+body{
+background:#a4f6a1;
+   
+}
 .grass{
     position:relative;
     left:50%;
-    top:100px;
     transform:translateX(-50%);
     width:500px;
     height:500px;
-    background-color:green;
-
 }
 .earth{
     position:absolute;
     left:50%;
-    top:308px;
+    top:208px;
     transform:translateX(-50%);
     width:500px;
     height:500px;
@@ -26,11 +27,11 @@
 }
 .p1{
     background-color:#5c8f29;
-    clip-path: polygon(23% 65%, 21% 73%, 29% 66%);
+    clip-path: polygon(23% 65%, 21% 73%, 29.2% 66%);
 }
 .p2{
     background-color:#7cb327;
-    clip-path: polygon(23% 65%, 28% 58%, 29% 66%);
+    clip-path: polygon(23% 65%, 28% 58%, 29.2% 66.1%);
 }
 .p3{
     background:#6d9e2e;
@@ -42,11 +43,11 @@
 }
 .p5{
 background:#91c046;
-clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
+clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
 }
 .p6{
     background:#477d29;
-    clip-path: polygon(39% 53%, 53% 55%, 51% 66%);
+    clip-path: polygon(39% 53%, 53.1% 55%, 51.1% 66%);
 }
 .p7{
     background:#4c8129;
@@ -54,11 +55,11 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
 }
 .p8{
     background:#5c8f2a;
-    clip-path: polygon(61% 60%, 63% 68%, 51% 66%);
+    clip-path: polygon(61% 59.9%, 63.1% 68.1%, 51% 66%);
 }
 .p9{
     background:#6ea429;
-    clip-path: polygon(61% 60%, 53% 55%, 66% 53%);
+    clip-path: polygon(61% 60.3%, 53% 55%, 66% 53%);
 }
 .p10{
     background:#6ea429;
@@ -69,7 +70,7 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
     clip-path: polygon(65% 57%, 72% 65%, 66% 53%);
 }
 .p12{
-    clip-path: polygon(73% 55%, 72% 65%, 66% 53%);
+    clip-path: polygon(73.1% 55.1%, 72% 65.5%, 65.9% 53%);
     background:#7cb327;
 }
 .p13{
@@ -93,7 +94,7 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
     clip-path: polygon(63% 68%, 72% 65%, 65% 56%);
 }
 .p18{
-    clip-path: polygon(63% 68%, 75% 70%, 64% 75%);
+    clip-path: polygon(63% 67.9%, 75% 70%, 64% 75%);
     background:#a9ce62;
 }
 .p19{
@@ -101,7 +102,7 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
     background:#91c046;
 }
 .p20{
-    clip-path: polygon(51% 66%, 49% 70%, 63% 68%);
+    clip-path: polygon(51% 65.8%, 49% 70%, 63% 68%);
     background:#84ac3a;
 }
 .p21{
@@ -117,17 +118,17 @@ clip-path: polygon(39% 53%, 41% 64%, 51% 66%);
     background:#a75740;
 }
 .p24{
-    clip-path: polygon(27% 38%, 23% 43%, 30% 54%);
+    clip-path: polygon(27.1% 37.8%, 23% 43%, 30.1% 54%);
     background:#904228;
 }
 .p25{
     clip-path: polygon(27% 38%, 36% 52%, 30% 54%);
     background:#6e301f}
 .p26{
-    clip-path: polygon(27% 38%, 34% 37%, 41% 38%, 36% 52%);
+    clip-path: polygon(26.8% 37.9%, 34% 36.9%, 41% 38%, 35.9% 52%);
     background:#693a28;
 }
 .p27{
-    clip-path: polygon(31% 53.69%, 36% 52%, 41% 61%, 34% 64%);
+    clip-path: polygon(31% 53.6%, 36% 51.8%, 41% 61%, 34% 64%);
     background:#904127;
 }
