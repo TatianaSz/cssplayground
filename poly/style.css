@@ -361,3 +361,27 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
     clip-path: polygon(54.9% 20.8%, 52.8% 24.5%, 61.7% 29.8%,60.5% 26.8%);
     background:#48498f;
 }
+.t19{
+    clip-path: polygon(68.9% 26.7%, 61.7% 29.8%,60.5% 26.8%);
+    background:#564bb1;
+}
+.t20{
+    clip-path: polygon(68.9% 26.7%, 66.7% 22.6%,60.5% 26.8%);
+    background:#1e1866;
+}
+.t21{
+    clip-path: polygon(68.9% 26.7%, 66.7% 22.6%, 72.6% 21.5%,73.2% 24.5%);
+    background:#6c74c6;
+}
+.t22{
+    clip-path: polygon(68.9% 26.7%, 72.5% 30.6%, 73.2% 24.5%);
+    background:#8c97dd;
+}
+.t23{
+    clip-path: polygon(74.8% 33.7%, 72.5% 30.6%, 73% 26.5%, 78.2% 29.5%);
+    background:#96b3e7;
+}
+.t24{
+    clip-path: polygon(69.1% 26.7%, 74.9% 33.8%, 72.2% 36%);
+    background:#2d356b;
+}
