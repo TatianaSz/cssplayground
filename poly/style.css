@@ -1,7 +1,20 @@
 
 body{
 background:#a4f6a1;
-   
+
+
+}
+.body{
+    position:absolute;
+    left:480px;
+    top:40px;
+    width:300px;
+    height:300px;
+    
+}
+img{
+    width:300px;
+    height:300px;
 }
 .grass{
     position:relative;
@@ -25,6 +38,7 @@ background:#a4f6a1;
     transform:translateX(-50%);
     width:500px;
     height:500px;
+    display:none;
 }
 .tree{
     position:absolute;
@@ -33,6 +47,7 @@ background:#a4f6a1;
     transform:translateX(-50%);
     width:500px;
     height:500px;
+    
 }
 .el{
     width:500px;
@@ -285,4 +300,36 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
 .t3{
     clip-path: polygon(52% 49%, 51.9% 57%, 52.9% 66.5%, 55% 64%, 53% 58%, 53% 44%);
     background:#5d432e;
+}
+.t4{
+    clip-path: polygon(41% 13%, 43% 18.5%, 50% 15%);
+    background:#4a58a4;
+}
+.t5{
+    clip-path: polygon(41% 13%, 52.5% 7%, 50% 15%);
+    background:#93b4ec;
+}
+.t6{
+    clip-path: polygon(55% 21%, 52.5% 7%, 50% 15%);
+    background:#5e5cc4;
+}
+.t7{
+    clip-path: polygon(55% 21%, 57% 9%, 53.5% 11.5%);
+    background:#8697bf;
+}
+.t8{
+    clip-path: polygon(55% 21%, 57% 9%, 58.8% 17.5%);
+    background:#7378d4;
+}
+.t9{
+    clip-path: polygon(61.4% 11%, 58% 13%, 58.8% 17.5%);
+    background:#8f9fee;
+}
+.t10{
+    clip-path: polygon(61.4% 11%, 62.6% 18%, 58.8% 17.5%);
+    background:#6e79cc;
+}
+.t11{
+    clip-path: polygon(61.4% 11%, 62.6% 18%, 64.3% 14.5%);
+    background:#41479e;
 }
