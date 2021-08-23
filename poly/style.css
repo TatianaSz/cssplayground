@@ -177,6 +177,38 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
     background:#512415;
 }
 .p39{
-    clip-path: polygon(65% 67%, 54% 72.7%, 57% 50.9%);
+    clip-path: polygon(65% 67%, 53.9% 72.7%, 56.9% 50.9%);
     background:#402011
+}
+.p41{
+    clip-path: polygon(49.9% 62.3%, 49.9% 54%, 53.9% 44.8%, 66% 40%);
+    background:#a75740;
+}
+.p40{
+    clip-path: polygon(65% 67%, 57.2% 52%, 65.8% 40%, 67% 52%);
+    background:#612a1b;
+}
+.p42{
+    clip-path: polygon(53.8% 45%, 60.9% 36%, 64% 35%, 70% 39%);
+    background:#692e1d;
+}
+.p43{
+    clip-path: polygon(65.9% 40.4%, 70% 38.9%, 73% 44%);
+    background:#402011;
+}
+.p44{
+    clip-path: polygon(65.8% 40.3%, 66.8% 53%, 73% 43.9%);
+    background:#703220
+}
+.p45{
+    clip-path: polygon(63.9% 35%, 69.9% 39%, 72.9% 43.9%, 79% 35%);
+    background:#662d1c;
+}
+.p46{
+    clip-path: polygon(75% 30%, 64% 35%, 79.1% 35.1%);
+    background:#5c2819;
+}
+.p47{
+    clip-path: polygon(74.9% 30.1%, 80% 26%, 79% 35.1%);
+    background:#402011;
 }
