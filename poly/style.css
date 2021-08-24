@@ -51,7 +51,12 @@ background:#a4f6a1;
     height:500px;
     position:absolute;
 }
-
+.flower .el{
+    top:150px;
+    left:40px;
+    width:200px;
+    height:200px;
+}
 .p1{
     background-color:#5c8f29;
     clip-path: polygon(23% 65%, 21% 73%, 29.2% 66%);
@@ -637,11 +642,25 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
 
 .f4{
     clip-path: polygon(55% 65%, 58% 62.5%, 61% 66%, 59% 68.5%, 56% 68%);
-    background:red;
+    background:#ebf5f7;
+}
+.f7{
+    clip-path: polygon(61% 66%, 59% 68.5%, 56% 68%);
+    background:#59cfee;
+}
+.f8{
+    clip-path: polygon(55% 65%, 59% 68.5%, 56% 68%);
+    background:#59cfee;
 }
 
-
-
+.f5{
+    clip-path: polygon(57% 62.7%, 59% 68.5%, 55% 65%);
+    background:#a9ebfc;
+}
+.f6{
+    clip-path: polygon(59.5% 63%, 61% 66%, 56% 68%);
+    background:#a9ebfc;
+}
 
 
 
