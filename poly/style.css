@@ -57,6 +57,10 @@ background:#a4f6a1;
     width:200px;
     height:200px;
 }
+.flower .a{
+    top:170px;
+    left:190px;
+}
 .p1{
     background-color:#5c8f29;
     clip-path: polygon(23% 65%, 21% 73%, 29.2% 66%);
@@ -662,7 +666,10 @@ clip-path: polygon(39% 53%, 41% 64%, 51.4% 66.2%);
     background:#a9ebfc;
 }
 
-
+.f2a{
+    clip-path: polygon(56% 80%, 55% 80%, 64% 72%);
+    background:#467346;
+}
 
 
 
